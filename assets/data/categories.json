@@ -10,7 +10,7 @@
     { "id": "plush",    "name": "Plush & Stuffed Animals",  "emoji": "🧸", "tagline": "Cuddly friends from Jellycat to unicorns","order": 7 },
     { "id": "bath",     "name": "Bath, Water & Beach",      "emoji": "🏖️", "tagline": "Splash, sand & summer play",              "order": 8 },
     { "id": "pretend",  "name": "Pretend Play & Dress-Up",  "emoji": "🎭", "tagline": "Kitchens, costumes & role-play",          "order": 9 },
-    { "id": "arts",     "name": "Arts & Crafts",            "emoji": "🎨", "tagline": "Make, color, bead & create",              "hero": "assets/img/shelves/s_arts.jpg", "order": 10 },
+    { "id": "arts",     "name": "Arts & Crafts",            "emoji": "🎨", "tagline": "Make, color, bead & create",              "order": 10 },
     { "id": "figures",  "name": "Modern Action Figures",    "emoji": "🦸", "tagline": "Marvel, DC, Star Wars & Funko",           "order": 11 },
     { "id": "cards",    "name": "Trading Cards & TCG",      "emoji": "🃏", "tagline": "Pokémon, sports & collectible packs",     "order": 12 },
     { "id": "diecast",  "name": "Die-Cast & Vehicles",      "emoji": "🏎️", "tagline": "Hot Wheels, trucks & ride-ons",           "order": 13 },
