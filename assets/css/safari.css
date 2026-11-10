@@ -704,3 +704,12 @@ body.mega-open .mega{display:block}
   border:2px solid rgba(255,255,255,.9);box-shadow:inset 0 0 0 1px rgba(120,160,210,.35),0 18px 40px rgba(240,138,0,.18);position:relative}
 .balloon-art .bal::after{content:"";position:absolute;bottom:-18px;left:50%;width:2px;height:22px;background:var(--coral);transform:translateX(-50%)}
 @media (max-width:760px){.balloon-art{min-height:230px}.balloon-art .bal{width:150px}}
+
+/* Illustrated shelf for the AI-studio scan demo (shelf photos taken down pending provenance). */
+.shelf-art{position:relative;width:100%;height:100%;aspect-ratio:4/3;overflow:hidden;
+  background:linear-gradient(180deg,transparent 0 31%,#b07a45 31% 34%,#7d5230 34% 35%,transparent 35% 64%,#b07a45 64% 67%,#7d5230 67% 68%,transparent 68% 97%,#b07a45 97%),
+             linear-gradient(180deg,#f3ead9,#e6d8bf)}
+.shelf-art i{position:absolute;border-radius:5px;box-shadow:inset 0 0 0 2px rgba(255,255,255,.28),0 3px 0 rgba(0,0,0,.18)}
+.shelf-art i::after{content:"";position:absolute;left:14%;right:14%;top:18%;height:16%;border-radius:3px;background:rgba(255,255,255,.75)}
+.detect>.shelf-art,.upthumb .shelf-art{aspect-ratio:auto}
+.ba-shelf .shelf-art{transform:scale(2);transform-origin:30% 50%;aspect-ratio:auto}
